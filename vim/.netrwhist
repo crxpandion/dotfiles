@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/usr/local/Cellar/dnsmasq/2.63'
+let g:netrw_dirhist_2='/Users/Erde/Documents/Work/ts-code/tapsense/projects/dashboard/python/src'
+let g:netrw_dirhist_3='/Users/Erde/.oh-my-zsh'
+let g:netrw_dirhist_4='/Users/Erde/Documents/Work/ts-code/tapsense/projects/dashboard/java/web/lib/bootstrap'
