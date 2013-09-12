@@ -5,3 +5,8 @@ Just my dotfiles. I am using https://pypi.python.org/pypi/dotfiles to manage thi
 
 ####Notes:
 * remember that dotfiles uses symlinks
+
+####Other Tools:
+* Better Touch Tool
+* Caffine
+* Vox
